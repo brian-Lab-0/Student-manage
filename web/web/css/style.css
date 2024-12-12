@@ -1,0 +1,90 @@
+/* Full height for sidebar */
+#sidebar {
+    height: 100vh;
+}
+
+
+
+
+.content0  {
+    margin-top: inherit;
+
+
+}
+
+
+/*search*/
+.search{
+    width: 300px;
+    border-radius: 6px;
+}
+.search_btn{
+    margin-right: 10px;
+    border-radius: 6px;
+}
+
+
+
+
+
+/* Sidebar navigation links */
+.nav-link {
+    padding: 15px;
+    border-radius: 0;
+    text-align: center;
+    background-color: #333;
+    margin-bottom: 5px;
+    color: white;
+}
+
+.nav-link.active {
+    background-color: #007bff;
+    color: white;
+}
+
+.nav-link:hover {
+    background-color: #555;
+    text-decoration: none;
+    color: white;
+}
+
+/* Main Content Area */
+.bg-white {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Table Styling */
+.table-bordered {
+    border-color: #ccc;
+}
+
+.table-dark {
+    background-color: #333;
+    color: white;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
+
+.table tbody tr:nth-child(even) {
+    background-color: #fff;
+}
+
+/* .btn_adds */
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
